@@ -29,7 +29,7 @@ Authentication: JWT
 
 ⚡ Getting Started
 1. Clone the repository
-git clone [https://github.com/your-username/mern-chat-app.git](https://github.com/LeezaOraon/chat-app/tree/main/mern-chat-app-master)
+git clone [https://github.com/LeezaOraon/mern-chat-app.git](https://github.com/LeezaOraon/chat-app/tree/main/mern-chat-app-master)
 cd mern-chat-app
 
 2. Install dependencies
